@@ -1,5 +1,5 @@
-# Agnirath-Stratergy
-Agnirath strategy for the car to travel from chennai to Bangalore
+# Solar car Stratergy
+Strategy for the car to travel from chennai to Bangalore
 
 
 
